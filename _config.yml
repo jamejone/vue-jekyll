@@ -1,10 +1,10 @@
 
 # Info
-title: Vue❤Jekyll
-twitter: "http://twitter.com/bryanschuetz"
-github: "http://github.com/bryanschuetz"
-baseurl: ""
-url: "http://bryanschuetz.github.io"
+title: Finance website
+twitter: "http://twitter.com/james_output"
+github: "https://github.com/jamejone"
+baseurl: "https://jamejone.github.io/vue-jekyll/"
+url: "https://jamejone.github.io/vue-jekyll/"
 
 # Collections
 collections:
